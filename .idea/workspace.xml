@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60cd47e-73d8-42d1-9328-9e2a58e2370d" name="Default Changelist" comment="" />
+    <list default="true" id="a60cd47e-73d8-42d1-9328-9e2a58e2370d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python30DaysChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python30DaysChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +39,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="56c3f3e2-cc34-4ff7-abba-404a362187be" />
   <component name="ProjectId" id="1jOxt7GQJxMUSlpRzSJG4KrU83s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Day_3_Problem_solve">
+  <component name="RunManager" selected="Python.Day_6">
     <configuration name="Day_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python30DaysChallenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,6 +93,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_3_Problem_solve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python30DaysChallenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,9 +172,11 @@
       <item itemvalue="Python.day_5" />
       <item itemvalue="Python.day_2" />
       <item itemvalue="Python.Day_3_Problem_solve" />
+      <item itemvalue="Python.Day_6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day_6" />
         <item itemvalue="Python.Day_3_Problem_solve" />
         <item itemvalue="Python.day_2" />
       </list>
@@ -148,34 +202,54 @@
       <workItem from="1604024474679" duration="623000" />
       <workItem from="1604033412662" duration="5894000" />
       <workItem from="1604121982481" duration="24000" />
-      <workItem from="1604122012773" duration="25000" />
+      <workItem from="1604122012773" duration="694000" />
+      <workItem from="1604169589445" duration="4385000" />
+      <workItem from="1604294390522" duration="742000" />
+      <workItem from="1604302958234" duration="218000" />
+      <workItem from="1604328213131" duration="1950000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604122036438">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604122036438" />
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom" timestamp="1604119950549">
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom" timestamp="1604332861621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604119950549" />
-    <state width="1323" height="135" key="GridCell.Tab.0.center" timestamp="1604119950549">
+    <state width="981" height="135" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604332861621" />
+    <state width="1323" height="125" key="GridCell.Tab.0.center" timestamp="1604332861620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604119950549" />
-    <state width="1323" height="135" key="GridCell.Tab.0.left" timestamp="1604119950549">
+    <state width="981" height="135" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
+    <state width="1323" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604332861620" />
+    <state width="1323" height="125" key="GridCell.Tab.0.left" timestamp="1604332861619">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604119950549" />
-    <state width="1323" height="135" key="GridCell.Tab.0.right" timestamp="1604119950549">
+    <state width="981" height="135" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
+    <state width="1323" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604332861619" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right" timestamp="1604332861620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604119950549" />
+    <state width="981" height="135" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604332861620" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1603703103167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -192,10 +266,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603703103166" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1603689349279">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1604169780397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603689349279" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604169780397" />
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603695891375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -203,7 +277,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$main.coverage" NAME="main Coverage Results" MODIFIED="1603689628561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python30DaysChallenge$Day_3_Problem_solve.coverage" NAME="Day_3_Problem_solve Coverage Results" MODIFIED="1604169728819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$Day_3_Problem_solve.coverage" NAME="Day_3_Problem_solve Coverage Results" MODIFIED="1604085641572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python30DaysChallenge$Day_6.coverage" NAME="Day_6 Coverage Results" MODIFIED="1604329592710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python30DaysChallenge$day_5.coverage" NAME="day_5 Coverage Results" MODIFIED="1604170363847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$dayOne_1To5_pat1.coverage" NAME="dayOne_1To5_pat1 Coverage Results" MODIFIED="1603776429623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$day_5.coverage" NAME="day_5 Coverage Results" MODIFIED="1604085660181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$dayOne_1To5.coverage" NAME="dayOne_1To5 Coverage Results" MODIFIED="1603698801011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
