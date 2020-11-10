@@ -4,13 +4,22 @@
 ######Object###########
 
 class human:
+    def __init__(self,name,age,gender):
+        self.name=name
+        self.age = age
+        self.gender=gender
+
+
     def char(self):
-        print("Name is"+self.name)
-        print("Gender is"+self.gender)
-        print("Age is "+self.age)
+        print("My name is ",self.name," Age is ",self.age," and i am ",self.gender)
 
 
-r= human()
-r.char(1)
+
+
+
+ob=human('Atique',26,'Male')
+ob.char()
+
+
 
 
