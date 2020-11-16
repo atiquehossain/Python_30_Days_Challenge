@@ -23,3 +23,20 @@ ob.char()
 
 
 
+class Car:
+    wheels =5
+    #class variable
+
+    def __init__(self):
+        #instance variable
+        self.com='Audi'
+        self.model='A5'
+
+
+c=Car()
+print(id(c))
+c0=Car()
+print(id(c0))
+
+print(c.com,c.model,c.wheels)
+
