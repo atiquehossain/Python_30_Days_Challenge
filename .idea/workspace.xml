@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60cd47e-73d8-42d1-9328-9e2a58e2370d" name="Default Changelist" comment="Day 6">
-      <change afterPath="$PROJECT_DIR$/Day6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_8(BFS and DFS).py" afterDir="false" />
+    <list default="true" id="a60cd47e-73d8-42d1-9328-9e2a58e2370d" name="Default Changelist" comment="Day7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +242,8 @@
       <workItem from="1605279065684" duration="603000" />
       <workItem from="1605339614902" duration="1815000" />
       <workItem from="1605461045597" duration="602000" />
-      <workItem from="1605534530400" duration="4366000" />
+      <workItem from="1605534530400" duration="4876000" />
+      <workItem from="1605633744471" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Day 6">
       <created>1604384222398</created>
@@ -261,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605025460112</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day7">
+      <created>1605544559541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605544559541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,36 +286,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6" />
+    <MESSAGE value="Day7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604122036438">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604122036438" />
-    <state width="660" height="156" key="GridCell.Tab.0.bottom" timestamp="1605537993789">
+    <state width="660" height="156" key="GridCell.Tab.0.bottom" timestamp="1605544760665">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="981" height="135" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
-    <state width="660" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605537993789" />
+    <state width="660" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605544760665" />
     <state width="660" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605076787109" />
-    <state width="660" height="156" key="GridCell.Tab.0.center" timestamp="1605537993788">
+    <state width="660" height="156" key="GridCell.Tab.0.center" timestamp="1605544760665">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="981" height="135" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
-    <state width="660" height="156" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605537993788" />
+    <state width="660" height="156" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605544760665" />
     <state width="660" height="122" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605076787109" />
-    <state width="660" height="156" key="GridCell.Tab.0.left" timestamp="1605537993788">
+    <state width="660" height="156" key="GridCell.Tab.0.left" timestamp="1605544760665">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="981" height="135" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
-    <state width="660" height="156" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605537993788" />
+    <state width="660" height="156" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605544760665" />
     <state width="660" height="122" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605076787109" />
-    <state width="660" height="156" key="GridCell.Tab.0.right" timestamp="1605537993789">
+    <state width="660" height="156" key="GridCell.Tab.0.right" timestamp="1605544760665">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="981" height="135" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1604302736641" />
-    <state width="660" height="156" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605537993789" />
+    <state width="660" height="156" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605544760665" />
     <state width="660" height="122" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605076787109" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1603703103167">
       <screen x="0" y="0" width="1366" height="728" />
@@ -332,9 +338,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604169780397" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605025462089">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1641" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605544571284">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
+    <state x="1641" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605544571284" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605025462089" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605025419493">
       <screen x="0" y="0" width="1366" height="728" />
@@ -353,7 +360,7 @@
     <SUITE FILE_PATH="coverage/Python30DaysChallenge$day_5.coverage" NAME="day_5 Coverage Results" MODIFIED="1604170363847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$dayOne_1To5_pat1.coverage" NAME="dayOne_1To5_pat1 Coverage Results" MODIFIED="1603776429623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$day_5.coverage" NAME="day_5 Coverage Results" MODIFIED="1604085660181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python30DaysChallenge$Day_7.coverage" NAME="Day_7 Coverage Results" MODIFIED="1605537993771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python30DaysChallenge$Day_7.coverage" NAME="Day_7 Coverage Results" MODIFIED="1605544429624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python10DaysChallenge$dayOne_1To5.coverage" NAME="dayOne_1To5 Coverage Results" MODIFIED="1603698801011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
