@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60cd47e-73d8-42d1-9328-9e2a58e2370d" name="Default Changelist" comment="Day7">
+    <list default="true" id="a60cd47e-73d8-42d1-9328-9e2a58e2370d" name="Default Changelist" comment="Day8">
+      <change afterPath="$PROJECT_DIR$/Day_8(Tree).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_9(Linked list).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_8(BFS and DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_8(BFS and DFS).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -243,7 +245,8 @@
       <workItem from="1605339614902" duration="1815000" />
       <workItem from="1605461045597" duration="602000" />
       <workItem from="1605534530400" duration="4876000" />
-      <workItem from="1605633744471" duration="609000" />
+      <workItem from="1605633744471" duration="1515000" />
+      <workItem from="1605696089146" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="Day 6">
       <created>1604384222398</created>
@@ -266,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605544559541</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day8">
+      <created>1605635018168</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605635018168</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,7 +297,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 6" />
     <MESSAGE value="Day7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day7" />
+    <MESSAGE value="Day8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day8" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604122036438">
@@ -338,14 +349,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604169780397" />
-    <state x="1641" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605544571284">
+    <state x="1641" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605635026270">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
+    <state x="1641" y="96" key="Vcs.Push.Dialog.v2/0.0.1186.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605635026270" />
     <state x="1641" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605544571284" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605025462089" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605025419493">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1866" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605634997159">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
+    <state x="1866" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1186.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605634997159" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605025419492" />
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603695891375">
       <screen x="0" y="0" width="1366" height="728" />
